@@ -5,23 +5,11 @@
 </template>
 
 <script>
-import jsonp from 'jsonp'
-
 export default {
-  name: 'App',
-  components: {
-   
-  },
-  data(){
-    return {
-     
-    }
-  },
-  mounted(){
-    
-  }
+  name: 'app'
 }
 </script>
+
 
 <style>
 #app {
